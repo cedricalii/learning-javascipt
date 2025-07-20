@@ -1,4 +1,4 @@
-// Belajar variable
+// Belajar variable, if, dan switch
 // let nama = 'dea afrizal'
 // let usia = 30
 // let tinggiBadan = 173.5
@@ -7,8 +7,6 @@
 
 // beratBadan = 60
 
-
-// Belajar if dan switch
 // if(hobi == null){
 //   hobi = 'tidak ada'
 // } else {
